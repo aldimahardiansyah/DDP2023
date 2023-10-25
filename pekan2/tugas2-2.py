@@ -1,0 +1,6 @@
+print("==========================")
+print("Nama\t: Asep")
+print("NIM\t: 0118768768")
+print("Kelas\t: TI03")
+print("Alamat\t: Depok")
+print("==========================")
