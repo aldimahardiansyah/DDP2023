@@ -19,3 +19,4 @@ match jk:
         print("Berat badan ideal perempuan untuk tinggi ", tinggi, " adalah ", ideal)
     case _:
         print("Pilihan yang Anda masukkan tidak valid.")
+print("=====================================")
